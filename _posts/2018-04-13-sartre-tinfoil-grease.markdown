@@ -14,7 +14,7 @@ While I greatly enjoy PEL, over my head looms the ruler of a public school syste
 At a certain point you start to question how much you understand of the original author versus what you understood from someone else's point of view.
 So here is a quote from primary source of "On Literature"
 
-![Excerpt from On Literature]({{site.url}}/_images/sartre-quote.png)
+![Excerpt from On Literature](https://raw.githubusercontent.com/Brian-Yee/brian-yee.github.io/master/_includes/images/sartre-quote.png)
 
 
 In short, we humans are _multipliers_ drawing relations that need not exist between things to create a worth greater than the [sum of it's parts](https://en.wikipedia.org/wiki/Gestalt_psychology).
@@ -69,7 +69,7 @@ After an apprenticeship a whitesmith would travel about as a _tinkerer_ (more ar
 Unfortunately tinkerers -- like many current university graduates -- found themselves woefully unprepared to face the "real-world".
 One need only look at the absolutely brutal [dictionary terms](https://www.dictionary.com/browse/tinkerer) that evolved from them trying to make it in their trade.
 
-![The many definitions of a tinkerer]({{site.url}}/_images/tinkerer.pg)
+![The many definitions of a tinkerer](https://raw.githubusercontent.com/Brian-Yee/brian-yee.github.io/master/_includes/images/tinkerer.png)
 
 Indeed a [miscarriage of justice](https://en.wikipedia.org/wiki/Miscarriage_of_justice) even remains today with a Spiderman villain and a continued frustration of tin with our household appliances.
 While we don't really have tinfoil today as it is now _aluminum foil_ we continue to colloquially refer to it as tin. 
@@ -110,7 +110,7 @@ The inability to escape one's body is equivalent to the inability to escape the 
 Sweat disappates heat and the elbow grease of thick skin must be balanced with the salty grease our softer skin beads.
 And yet part of me defines myself in part by counting the scars on my knees and elbows. Why so?
 
-![Excerpt from Twilight of the Idols]({{site.url}}/_images/nietzsche-quote.png)
+![Excerpt from Twilight of the Idols](https://raw.githubusercontent.com/Brian-Yee/brian-yee.github.io/master/_includes/images/nietzsche-quote.png)
 
 As pointed out humility, _freedom from one's pride and arrogance_, is a useful tool in life. 
 However, it is not the only tool of ones one cultivation. 
