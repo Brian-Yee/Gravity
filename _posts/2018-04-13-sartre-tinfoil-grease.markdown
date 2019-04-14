@@ -72,7 +72,7 @@ One need only look at the absolutely brutal [dictionary terms](https://www.dicti
 ![The many definitions of a tinkerer](https://raw.githubusercontent.com/Brian-Yee/brian-yee.github.io/master/_includes/images/tinkerer.png)
 
 Indeed a [miscarriage of justice](https://en.wikipedia.org/wiki/Miscarriage_of_justice) even remains today with a Spiderman villain and a continued frustration of tin with our household appliances.
-While we don't really have tinfoil today as it is now _aluminum foil_ we continue to colloquially refer to it as tin. 
+While we don't really have tinfoil today, as it is now _aluminum foil_, we continue to colloquially refer to it as tin. 
 Occam's razor suggests this is because it serves the same purpose as its predecessor and requires three less syllables.
 I however prefer the much more nefarious view of humanity that still hopes to pin it's frustrations on tin as if it were the villain.
 From [cooking forums](https://cooking.stackexchange.com/questions/64219/is-aluminum-foil-porous) to [survivalist forums](https://www.survivalistboards.com/showthread.php?t=117680) we have people complaining about the now porous nature of aluminum foil.
