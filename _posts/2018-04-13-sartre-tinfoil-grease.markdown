@@ -12,7 +12,7 @@ Is something I wish I could start this article with -- and so I did -- but it's 
 In actuality, [The Partially Examined Life](https://partiallyexaminedlife.com) has been on a [Sartre binge](https://partiallyexaminedlife.com/2019/04/01/ep212-1-sartre/) recently, which I have been following during my early morning commutes.
 While I greatly enjoy PEL, over my head looms the ruler of a public school system that beat into me the superiority of primary over secondary sources.
 At a certain point you start to question how much you understand of the original author versus what you understood from someone else's point of view.
-So here is a quote from primary source of "On Literature"
+So here is a quote from [primary source](http://teaching.thenoiseofthestreet.net/dms463/sartre.pdf) of "What is Literature?"
 
 ![Excerpt from On Literature](https://raw.githubusercontent.com/Brian-Yee/brian-yee.github.io/master/_includes/images/sartre-quote.png)
 
