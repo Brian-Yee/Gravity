@@ -113,7 +113,7 @@ And yet part of me defines myself in part by counting the scars on my knees and 
 ![Excerpt from Twilight of the Idols](https://raw.githubusercontent.com/Brian-Yee/brian-yee.github.io/master/_includes/images/nietzsche-quote.png)
 
 As pointed out humility, _freedom from one's pride and arrogance_, is a useful tool in life. 
-However, it is not the only tool of ones one cultivation. 
+However, it is not the only tool of one's one cultivation. 
 Ambition, conversability, honesty, respect are all things I seek to find within myself from writing. 
 So I plan to stick my neck out like the little worm protrudes from its apple for fresh air on one of its faces; to state my thoughts knowing full well that my head could be bitten off in the end. 
 However, like wrapping a gift, most of this is in my head.
