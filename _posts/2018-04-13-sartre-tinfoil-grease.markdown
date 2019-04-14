@@ -78,13 +78,13 @@ I however prefer the much more nefarious view of humanity that still hopes to pi
 From [cooking forums](https://cooking.stackexchange.com/questions/64219/is-aluminum-foil-porous) to [survivalist forums](https://www.survivalistboards.com/showthread.php?t=117680) we have people complaining about the now porous nature of aluminum foil.
 The forums outline in surprising detail on these forums the average thickness of aluminum foil is 10.2µm-17.8µm; the minimum thickness for impermeability appears to be ~15 µm.
 When we accidentally crumple or crinkle the foil when laying it over the baking sheet we cause tiny one-dimensional perforations.
-As we remove the baking sheet covered in _aluminum_ foil from the oven, and see the grease once again has permeated we cry "GAH! This shoddy _tin_foil!" And in some grave the body turns of a recently graduated whitesmith who died to soon... perhaps at the hands of a disgruntled customer who had had a long day.
+As we remove the baking sheet covered in _aluminum_ foil from the oven, and see the grease once again has permeated we cry "GAH! This shoddy tinfoil!" And in some grave the body turns of a recently graduated whitesmith who died to soon... perhaps at the hands of a disgruntled customer who had had a long day.
 
-I would be remiss here to not take this time to lament about another time that _tin_foil has caused me sadness.
+I would be remiss here to not take this time to lament about another time that tinfoil has caused me sadness.
 It was seventh grade and my science class was lectured on the importance of scientific instruments and margins of error associated with them.
-Our teacher asked "How would one measure the thickness of _tin_foil?" A question begging the answer of the inexpensive electronic [micrometer](https://en.wikipedia.org/wiki/Micrometer) in her hand.
-It was our job then to take micrometers and measure the thickness of various brands of _tin_foil.
-As a little shit-head  I did not use the micrometer as instructed and instead folded 4 pieces of _tin_foil, 6 times each, pressing them as tightly together as my little arms could muster.
+Our teacher asked "How would one measure the thickness of tinfoil?" A question begging the answer of the inexpensive electronic [micrometer](https://en.wikipedia.org/wiki/Micrometer) in her hand.
+It was our job then to take micrometers and measure the thickness of various brands of tinfoil.
+As a little shit-head  I did not use the micrometer as instructed and instead folded 4 pieces of tinfoil, 6 times each, pressing them as tightly together as my little arms could muster.
 Then with a regular ruler I measured the height and shifted the decimal place by 3 (given 2<sup>10</sup>~1000) to measure the width using zero electronics.
 In hindsight, a more accurate measurement could have been achieved by submerging the foil in a graduated cylinder and multiplying the increased height by the ratio of areas.
 This increase accuracy would not of changed my failing grade however as the rubric had defined the objective of the task as "learning the proper use of a micrometer". 
