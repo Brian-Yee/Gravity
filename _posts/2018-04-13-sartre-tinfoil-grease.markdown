@@ -41,7 +41,7 @@ This equilibria arises from a social wisdom that it is beneficial to maintain so
 
 So unstable we are that six shitty points on a gift may make one question how much effort someone put into a gift.
 Or at the least, that is what I am thinking as I stare at my wrapping job, focusing on those slightly blanched corners protruding from the vibrant red.
-So I throw a bow on it to qualm that angst.
+So I throw a bow on it to calm that angst.
 Just like I want to write to qualm an angst of self-reflection when life's corners blanch our thin contextual wrapping of it.
 
 # Tinfoil
