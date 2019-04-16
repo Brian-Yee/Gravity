@@ -39,7 +39,7 @@ These periodic events often seem like unstable equilibria, every infinitely dime
 Each of these interactions exist purely with a given temporally-periodic agreement in which an unstable equilibria is to be met.
 This equilibria arises from a social wisdom that it is beneficial to maintain social bonds and yet it often ends up feeling more like social bondage.
 
-So unstable we are that six shitty points on a gift may make one question how much effort someone put into a gift.
+So unstable we are that six points on a gift may make one question how much effort someone put into a gift.
 Or at the least, that is what I am thinking as I stare at my wrapping job, focusing on those slightly blanched corners protruding from the vibrant red.
 So I throw a bow on it to calm that angst.
 Just like I want to write to qualm an angst of self-reflection when life's corners blanch our thin contextual wrapping of it.
@@ -102,7 +102,7 @@ And yet part of me defines myself in part by counting the scars on my knees and 
 As pointed out humility, _freedom from one's pride and arrogance_, is a useful tool in life. 
 However, it is not the only tool of one's one cultivation. 
 Ambition, conversability, honesty, respect... these are all things I seek to find within myself from writing. 
-So I plan to stick my neck out like the little worm protruding from its apple for fresh air on one of its faces; to state my thoughts as my own knowing full well that my head could be bitten off in the end. 
+So I plan to stick my neck out like the little worm protruding from its apple for fresh air on one of its faces; to state my thoughts as my own knowing full well that my head could be bitten off in the process. 
 However, like the anticipated vitriol of a poorly wrapped gift, most of this is probably in my head.
 Surely most people would simply rather choose to return a wormed-apple to nature instead of biting it?
 Then again, there is still a child inside of me asking "What's wrong with eating worms?" to which the best answer my older self can suffice is "Nothing I suppose?".
