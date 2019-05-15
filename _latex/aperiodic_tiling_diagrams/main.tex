@@ -1,0 +1,101 @@
+\documentclass{article}
+
+\usepackage{amsmath, amssymb}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+
+\newcommand{\phase}[1]{\text{phase}\left(#1\right)}
+\newcommand{\polar}[1]{\text{polar}\left(#1\right)}
+\newcommand{\abs}[1]{\left|#1\right|}
+
+\newcommand{\QR}{QR}
+\newcommand{\QP}{QP}
+
+\begin{document}
+\section*{Pinwheel}
+
+The structure of the pinwheel tiling is as follows
+
+\newcommand{\pinwheelTheta}{26.56505117707799}  % arctan(2, 1)
+
+\begin{tikzpicture}[scale=5]
+  \node(Q) at (0, 0) {P};
+  \node(P) at (0, 1) {Q};
+  \node(R) at (2, 0) {R};
+
+  \node(a) at (1, 0) {a};
+  \node(b) at ({90-\pinwheelTheta}:{1/sqrt(5)}) {b};
+  \node(c) at ({90-\pinwheelTheta}:{2/sqrt(5)}) {c};
+
+  \node(d) at ($ (a) + (b) $) {d};
+
+  \draw (Q)--(P)--(c)--(d)--(R)--(a)--(Q);
+
+  \draw (Q)--(b)--(c);
+  \draw (b)--(a)--(d);
+  \draw (a)--(c);
+
+  \node at (1.7, 0.075) {$\alpha$};
+
+\end{tikzpicture}
+
+\noindent it is trivial to see that
+
+\begin{align*}
+  a &= Q + \frac{\QP}{2}\\
+  b &= \polar{\frac{1}{\sqrt{5}}\abs{\QP}, \phase{\QP} - \alpha}\\
+  c &= \polar{\frac{2}{\sqrt{5}}\abs{\QP}, \phase{\QP} - \alpha}\\
+  d &= \polar{\frac{2}{\sqrt{5}}\abs{Ra}, \phase{Ra} - \alpha}\\
+\end{align*}
+
+\newpage
+\section*{Sphinx}
+
+The structure of the sphinx tiling is as follows
+
+\begin{tikzpicture}[scale=3.5]
+  \node(Q) at (0, 0) {Q};
+  \node(P) at (1, {sqrt(3)}) {P};
+  \node(a) at (1.5, {sqrt(3)/2}) {a};
+  \node(b) at (2.5, {sqrt(3)/2}) {b};
+  \node(R) at (3, 0) {R};
+
+  \node(j) at (0.5, 0) {j};
+  \node(e) at (1.5, 0) {e};
+  \node(k) at (2.5, 0) {k};
+
+  \node(h) at (0.25, {sqrt(3)/4}) {h};
+  \node(i) at (0.50, {sqrt(3)/2}) {i};
+
+  \node(f) at ({0.5 + 0.50}, {sqrt(3)/2}) {f};
+  \node(g) at ({0.5 + 0.25}, {sqrt(3)/4}) {g};
+
+  \node(c) at ({1.5 + 0.70}, {sqrt(3)/4}) {c};
+  \node(d) at ({1.5 + 0.25}, {sqrt(3)/4}) {d};
+
+  \draw (Q)--(h)--(i)--(P)--(a)--(b)--(R)--(k)--(e)--(j)--(Q);
+  \draw (h)--(g)--(f)--(a);
+  \draw (b)--(c)--(d)--(e);
+  \draw (f)--(e);
+\end{tikzpicture}
+
+Let
+
+\newcommand{\Qh}{Qh}
+\newcommand{\Qj}{Qj}
+
+\begin{align*}
+  \Qh &= \frac{1}{4}\QP \\
+  \Qj &= \frac{1}{6}\QR \\
+\end{align*}
+
+then by definition
+
+\begin{align*}
+  h &= Q + \Qh  & j &= Q + \Qj  & f &= h + \Qj  & a &= i + 2\Qj \\
+  i &= Q + 2\Qh & e &= Q + 3\Qj & g &= i + \Qj  & d &= h + 3\Qj \\
+    &           & k &= Q + 5\Qj & b &= h + 4\Qj &   &           \\
+    &           &   &           & c &= i + 4\Qj &   &           \\
+\end{align*}
+
+\end{document}
