@@ -72,7 +72,6 @@ for _ in range(iterations - 1):
     for rep_tile in rep_tiles:
         new_rep_tiles += rep_tile.subdivide()
     rep_tiles = new_rep_tiles
-
 ```
 
 and then rendering the end result!
