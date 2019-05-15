@@ -19,7 +19,7 @@ While PolyWhirl was written rather quickly Py-Rep-Tile took a bit longer identif
 A rep-tile is a portmanteau of _repeating tile_ that is it is a tile that one can tesselate a copy of itself.
 This property is called [self-similarity](https://en.wikipedia.org/wiki/Self-similarity), which means the whole has the same shape as one or more of its parts.
 The tile can be mirrored and rotated but the perimeter is rigid and never augmented.
-Here are a few examples of rep-tile's taking from the [wikipedia page](https://en.wikipedia.org/wiki/Rep-tile).
+You can see many examples of rep-tile's on the [wikipedia page](https://en.wikipedia.org/wiki/Rep-tile) devoted to them.
 
 ### What is aperiodicity?
 
