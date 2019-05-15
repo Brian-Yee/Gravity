@@ -56,7 +56,7 @@ We can then write all of the coordinates in polar form using the _origin_ as our
 
 Or in the case of the sphinx tiling, define a subgrid
                
-![Sphinx grid](https://github.com/Brian-Yee/brian-yee.github.io/blob/master/_includes/images/aperiodic-tiling/sphinx-grid-eq.png)
+![Sphinx grid](https://raw.githubusercontent.com/Brian-Yee/brian-yee.github.io/master/_includes/images/aperiodic-tiling/sphinx-grid-eq.png)
 
 and rewrite all equations as part of the grid
 
