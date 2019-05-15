@@ -1,8 +1,8 @@
-# Generating Beautiful Aperiodic Rep-Tilings
+## Summary:
+In this post I outline what an aperiodic rep-tile is and discuss how to write a program to construct a tiling of them.
+Readers will learn about: periodicty, tiling, geometry and using polar coordinates, as well as seeing some pretty beautiful results from recreational mathematics
 
-## Summary
-Reading time:
-Concepts: Periodic, Rep-Tiles, Polar Coordinates, Recreational Math
+Full code to tinker and play with is available on [GitHub](https://github.com/Brian-Yee/Py-Rep-Tile)
 
 ## The Meta
 Recently I went on a trip to Spain and needed some simple concepts to program while in an offline state.
@@ -39,7 +39,7 @@ The easiest way to do this is to choose three central points of a tile an _origi
 
 The naming of these terms are chose because the _origin_ is used as a reference point to translate points back to the _origin_ of a plane where mathematical operations are easier.
 The _index_ and _thumb_ are chosen to highlight the [_chirality_](https://en.wikipedia.org/wiki/Chirality_(mathematics)) present in the problem from flipping a tile.
-The sign of the cross product of your _index_ and _thumb_ tell you whether a tile was flipped or not.
+The sign of the cross product of your _index_ and _thumb_ tells you whether a tile was flipped or not.
 
 There are two aperiodic reptiles I implemented the [pinwheel](https://en.wikipedia.org/wiki/Pinwheel_tiling) and [sphinx](https://en.wikipedia.org/wiki/Sphinx_tiling). Below are the diagrams showing their geometry
 
@@ -55,8 +55,8 @@ We can then write all of the coordinates in polar form using the _origin_ as our
 ![Pinwheel equations](https://raw.githubusercontent.com/Brian-Yee/brian-yee.github.io/master/_includes/images/aperiodic-tiling/pinwheel-eq.png)
 
 Or in the case of the sphinx tiling, define a subgrid
-
-![Sphinx grid](https://raw.githubusercontent.com/Brian-Yee/brian-yee.github.io/master/_includes/images/aperiodic-tiling/spinx-grid-eq.png)
+               
+![Sphinx grid](https://github.com/Brian-Yee/brian-yee.github.io/blob/master/_includes/images/aperiodic-tiling/sphinx-grid-eq.png)
 
 and rewrite all equations as part of the grid
 
@@ -79,10 +79,8 @@ and then rendering the end result!
 For additional prettiness the phase of a key edge is assigned a colour to help aid in distinguishing subtiles after subdivision.
 It was found to be a surprisingly non-trivial to define a way to colour triangles well due to the chirality of the problem.
 Nonetheless a simple method was implemented that is self-consistent if not ideal and can be easily overwritten in the future if anyone else has a better colouring scheme.
-Full code is available here []() to extend and play with and here are some pretty results shown below.
+Gorgeous!
 
 ![Pinwheel tiling](https://raw.githubusercontent.com/Brian-Yee/brian-yee.github.io/master/_includes/images/aperiodic-tiling/pinwheel.png)
 
 ![Sphinx tiling](https://raw.githubusercontent.com/Brian-Yee/brian-yee.github.io/master/_includes/images/aperiodic-tiling/sphinx.png)
-
-Gorgeous!
