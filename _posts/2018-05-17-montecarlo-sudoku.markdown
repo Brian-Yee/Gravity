@@ -34,7 +34,7 @@ and it's solution
 The reader is likely to have encountered them either in the back of a newspaper or on top of a toilet at a friends house in the 2000s, partially solved with a pencil/pencil that unfortunately no longer appears to be located in the bathroom.
 It is fairly intuitive to see how the rules should apply to _generalized_ sudoku systems such as _hexadoku_, which instead of using the digits from `0-9` uses the hexadecimal system or _samurai sudoku_ which interlocks multiple sudokus
 
-![Example Image of Samurai Sudoku](../_includes/images/montecarlo-sudoku/samurai-sudoku-example.png)
+![Example Image of Samurai Sudoku](https://raw.githubusercontent.com/Brian-Yee/brian-yee.github.io/master/_includes/images/montecarlo-sudoku/samurai-sudoku-example.png)
 
 The outline of this post focuses explicitly on solving a Samurai Sudoku puzzle although the techniques are transferrable to other interolcked sudokus or `n`-dokus like hexadoku.
 
