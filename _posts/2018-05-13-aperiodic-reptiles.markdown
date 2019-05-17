@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Beautiful Aperiodic Rep-Tiles"
+date:   2018-05-13 00:00:00 +0530
+categories: [""]
+author: "Brian Yee"
+---
+
 ## Summary:
 In this post I outline what an aperiodic rep-tile is and discuss how to write a program to construct a tiling of them.
 Readers will learn about: periodicty, tiling, geometry and using polar coordinates, as well as seeing some pretty beautiful results from recreational mathematics
