@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Monte Carlo Recipe for Solving Generalized Sudoku Systems"
+title:  "Sudoku à la Monte Carlo"
 date:   2018-05-17 13:48:00 +0530
 categories: [""]
 author: "Brian Yee"
